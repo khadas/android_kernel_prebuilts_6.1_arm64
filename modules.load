@@ -1,7 +1,12 @@
 gzvm.ko
 kheaders.ko
 zsmalloc.ko
+crct10dif_common.ko
+crct10dif_generic.ko
 libarc4.ko
+crc-t10dif.ko
+null_blk.ko
+scsi_debug.ko
 mii.ko
 can-dev.ko
 vcan.ko
